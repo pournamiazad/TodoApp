@@ -79,6 +79,7 @@ p {
   padding: 14px;
   border-radius: 14px;
   background: white;
+  justify-content: space-between;
 }
 
 .todoItem p {
